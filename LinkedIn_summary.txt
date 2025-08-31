@@ -1,0 +1,11 @@
+Mantenimiento Predictivo con Machine Learning | Clasificación, Regresión, Clustering + PCA
+
+Desarrollé un proyecto end-to-end para predecir fallas de equipos y estimar la vida útil restante (RUL) usando Python y Scikit-learn.
+Incluye:
+• Clasificación (RandomForest, SVM) con F1-score, matriz de confusión y ROC-AUC.
+• Regresión (Ridge/Lasso/RandomForest) con RMSE y validación cruzada.
+• Clustering + PCA para patrones operativos y detección de anomalías.
+• Prevención de data leakage con Pipeline y escalado.
+• Visualizaciones claras y explicaciones para público no técnico.
+
+Código y notebook con resultados reproducibles, listo para presentar a reclutadores y stakeholders.

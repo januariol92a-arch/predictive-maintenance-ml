@@ -1,0 +1,5 @@
+Proyecto: Mantenimiento Predictivo con ML
+Objetivo: Clasificación de fallo inminente y Regresión de RUL
+Modelos: LogisticRegression, RandomForest (clasificación); Ridge/Lasso/RF (regresión)
+Métricas clave: F1 y ROC-AUC (clasificación); RMSE y R2 (regresión)
+Buenas prácticas: Pipeline, escalado, CV estratificada, tuning con GridSearch, prevención de data leakage

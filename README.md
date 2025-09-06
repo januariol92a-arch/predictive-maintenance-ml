@@ -43,10 +43,6 @@ jupyter notebook notebooks/01_predictive_maintenance_end_to_end.ipynb
 - Coloca los archivos en `data/` y adapta la celda "Cargar dataset real".
 - Respeta la separación **train / validation / test** para evitar *data leakage*.
 
-## 🧑‍💼 Para LinkedIn
-- Título sugerido: **Mantenimiento Predictivo con Machine Learning (Clasificación, Regresión, Clustering + PCA)**
-- Descripción breve incluida en `reports/LinkedIn_summary.txt`
 
----
 
 © 2025
